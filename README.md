@@ -1,10 +1,3 @@
-Below is a sample `README.md` that references `app_gradio_rent.ipynb` for running the Gradio interface. It also includes example plots, the Gradio screenshot, and a TypeScript snippet for API integration.
-
-Make sure to replace placeholder image paths (`images/plot_distribution.png`, etc.) with the actual paths in your repo.
-
----
-
-```markdown
 # Rent Value Prediction
 
 This repository contains a machine learning project that estimates the monthly rent for a property based on various features (e.g., size, number of rooms, location, etc.). It includes:
